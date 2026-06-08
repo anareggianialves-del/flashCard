@@ -26,7 +26,7 @@ main{
 }
 .cabecalho-link{
     color: azure;
-    text-decoration: nome;
+    text-decoration: none;
 }
 h1{
     color: rgb(204, 255, 255);
