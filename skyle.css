@@ -24,3 +24,10 @@ body{
 main{
     flex: 1;
 }
+.cabecalho-link{
+    color: azure;
+    text-decoration: nome;
+}
+h1{
+    color: rgb(204, 255, 255);
+}
